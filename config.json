@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailfpdate",
+        "uuid": 1266660,
+        "checksum": "wb3gd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
